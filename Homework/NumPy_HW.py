@@ -1,6 +1,6 @@
 import numpy as np
 
-## Create an empty board
+## Create an empty board ##
 gamearray = np.array([['','',''],['','',''],['','','']])
 
 ## Print to Screen
